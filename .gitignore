@@ -15,6 +15,11 @@ bin/
 out/
 gen/
 
+# Librerias usadas en la aplicacion.
+# Pueden adicionarse librerias pero es mejor tener control sobre ellas.
+/libs
+
+
 # Archivos generados automaticamente por el IDE.
 build.xml
 ant.properties
