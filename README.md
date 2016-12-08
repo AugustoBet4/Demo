@@ -15,7 +15,8 @@ Instalación
 Clone con el siguiente comando
 > $ git clone https://github.com/AugustoBet4/Demo.git
 
-> En algunas maquinas con Windows no soportan protocolo https, use el siguiente codigo
+ En algunas maquinas con Windows no soportan protocolo https, use el siguiente codigo
+
 > $ git clone http://github.com/AugustoBet4/Demo.git
 
 Captura
